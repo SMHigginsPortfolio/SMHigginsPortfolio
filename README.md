@@ -108,6 +108,8 @@
 ---
 
 <!-- Snake animation (Optional) -->
+https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg
+
 <!-- Light Mode -->
 ![GitHub Snake Light](https://github.com/SMHigginsPortfolio/SMHigginsPortfolio/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!-- Dark Mode -->
