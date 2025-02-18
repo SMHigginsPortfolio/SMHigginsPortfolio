@@ -7,7 +7,7 @@
 <!-- Banner or header image (Optional) -->
 <p align="center">
   <!-- Replace with your own image, or an interesting relevant GIF -->
-  <img src="https://user-images.githubusercontent.com/YOUR_USER_ID/ASSETS/banner.gif" alt="banner" />
+  <img src="https://avatars.githubusercontent.com/u/31607832?s=400&u=8a98f7f779a7911fd206ddd324bd60bb5208d9d1&v=4" alt="banner" />
 </p>
 
 <!-- Typing SVG (Optional) -->
