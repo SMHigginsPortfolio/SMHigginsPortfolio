@@ -107,15 +107,12 @@
 
 ---
 
-<!-- Snake animation (Optional) -->
-<!-- Snake animation (Optional) -->
-![GitHub Snake](https://github.com/SMHigginsPortfolio/SMHigginsPortfolio/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Light Mode -->
-![GitHub Snake Light](https://github.com/SMHigginsPortfolio/SMHigginsPortfolio/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<!-- Dark Mode -->
-![GitHub Snake Dark](https://github.com/SMHigginsPortfolio/SMHigginsPortfolio/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ---
 
 <!-- Connect With Me -->
